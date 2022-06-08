@@ -1,2 +1,4 @@
 # Notebooks
-Some implementations of Favorite notebooks I sketched up 
+Some Notebooks I have found useful. 
+
+I will keep updating.
